@@ -1,1 +1,2 @@
-"# ˜lk GitHub Projem" 
+# Ä°lk GitHub Projem
+This is my first GitHub project.
