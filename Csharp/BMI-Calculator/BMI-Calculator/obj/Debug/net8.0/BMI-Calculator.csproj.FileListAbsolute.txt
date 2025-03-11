@@ -1,0 +1,29 @@
+C:\Users\allen\source\repos\BMI-Calculator\BMI-Calculator\bin\Debug\net8.0\BMI-Calculator.exe
+C:\Users\allen\source\repos\BMI-Calculator\BMI-Calculator\bin\Debug\net8.0\BMI-Calculator.deps.json
+C:\Users\allen\source\repos\BMI-Calculator\BMI-Calculator\bin\Debug\net8.0\BMI-Calculator.runtimeconfig.json
+C:\Users\allen\source\repos\BMI-Calculator\BMI-Calculator\bin\Debug\net8.0\BMI-Calculator.dll
+C:\Users\allen\source\repos\BMI-Calculator\BMI-Calculator\bin\Debug\net8.0\BMI-Calculator.pdb
+C:\Users\allen\source\repos\BMI-Calculator\BMI-Calculator\obj\Debug\net8.0\BMI-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allen\source\repos\BMI-Calculator\BMI-Calculator\obj\Debug\net8.0\BMI-Calculator.AssemblyInfoInputs.cache
+C:\Users\allen\source\repos\BMI-Calculator\BMI-Calculator\obj\Debug\net8.0\BMI-Calculator.AssemblyInfo.cs
+C:\Users\allen\source\repos\BMI-Calculator\BMI-Calculator\obj\Debug\net8.0\BMI-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\allen\source\repos\BMI-Calculator\BMI-Calculator\obj\Debug\net8.0\BMI-Calculator.dll
+C:\Users\allen\source\repos\BMI-Calculator\BMI-Calculator\obj\Debug\net8.0\refint\BMI-Calculator.dll
+C:\Users\allen\source\repos\BMI-Calculator\BMI-Calculator\obj\Debug\net8.0\BMI-Calculator.pdb
+C:\Users\allen\source\repos\BMI-Calculator\BMI-Calculator\obj\Debug\net8.0\BMI-Calculator.genruntimeconfig.cache
+C:\Users\allen\source\repos\BMI-Calculator\BMI-Calculator\obj\Debug\net8.0\ref\BMI-Calculator.dll
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\BMI-Calculator\BMI-Calculator\bin\Debug\net8.0\BMI-Calculator.exe
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\BMI-Calculator\BMI-Calculator\bin\Debug\net8.0\BMI-Calculator.deps.json
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\BMI-Calculator\BMI-Calculator\bin\Debug\net8.0\BMI-Calculator.runtimeconfig.json
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\BMI-Calculator\BMI-Calculator\bin\Debug\net8.0\BMI-Calculator.dll
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\BMI-Calculator\BMI-Calculator\bin\Debug\net8.0\BMI-Calculator.pdb
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\BMI-Calculator\BMI-Calculator\obj\Debug\net8.0\BMI-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\BMI-Calculator\BMI-Calculator\obj\Debug\net8.0\BMI-Calculator.AssemblyInfoInputs.cache
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\BMI-Calculator\BMI-Calculator\obj\Debug\net8.0\BMI-Calculator.AssemblyInfo.cs
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\BMI-Calculator\BMI-Calculator\obj\Debug\net8.0\BMI-Calculator.csproj.CoreCompileInputs.cache
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\BMI-Calculator\BMI-Calculator\obj\Debug\net8.0\BMI-Calculator.sourcelink.json
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\BMI-Calculator\BMI-Calculator\obj\Debug\net8.0\BMI-Calculator.dll
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\BMI-Calculator\BMI-Calculator\obj\Debug\net8.0\refint\BMI-Calculator.dll
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\BMI-Calculator\BMI-Calculator\obj\Debug\net8.0\BMI-Calculator.pdb
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\BMI-Calculator\BMI-Calculator\obj\Debug\net8.0\BMI-Calculator.genruntimeconfig.cache
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\BMI-Calculator\BMI-Calculator\obj\Debug\net8.0\ref\BMI-Calculator.dll

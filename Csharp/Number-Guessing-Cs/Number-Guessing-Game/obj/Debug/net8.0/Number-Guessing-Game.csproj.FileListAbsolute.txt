@@ -1,0 +1,29 @@
+C:\Users\allen\source\repos\Number-Guessing-Game\Number-Guessing-Game\bin\Debug\net8.0\Number-Guessing-Game.exe
+C:\Users\allen\source\repos\Number-Guessing-Game\Number-Guessing-Game\bin\Debug\net8.0\Number-Guessing-Game.deps.json
+C:\Users\allen\source\repos\Number-Guessing-Game\Number-Guessing-Game\bin\Debug\net8.0\Number-Guessing-Game.runtimeconfig.json
+C:\Users\allen\source\repos\Number-Guessing-Game\Number-Guessing-Game\bin\Debug\net8.0\Number-Guessing-Game.dll
+C:\Users\allen\source\repos\Number-Guessing-Game\Number-Guessing-Game\bin\Debug\net8.0\Number-Guessing-Game.pdb
+C:\Users\allen\source\repos\Number-Guessing-Game\Number-Guessing-Game\obj\Debug\net8.0\Number-Guessing-Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allen\source\repos\Number-Guessing-Game\Number-Guessing-Game\obj\Debug\net8.0\Number-Guessing-Game.AssemblyInfoInputs.cache
+C:\Users\allen\source\repos\Number-Guessing-Game\Number-Guessing-Game\obj\Debug\net8.0\Number-Guessing-Game.AssemblyInfo.cs
+C:\Users\allen\source\repos\Number-Guessing-Game\Number-Guessing-Game\obj\Debug\net8.0\Number-Guessing-Game.csproj.CoreCompileInputs.cache
+C:\Users\allen\source\repos\Number-Guessing-Game\Number-Guessing-Game\obj\Debug\net8.0\Number-Guessing-Game.dll
+C:\Users\allen\source\repos\Number-Guessing-Game\Number-Guessing-Game\obj\Debug\net8.0\refint\Number-Guessing-Game.dll
+C:\Users\allen\source\repos\Number-Guessing-Game\Number-Guessing-Game\obj\Debug\net8.0\Number-Guessing-Game.pdb
+C:\Users\allen\source\repos\Number-Guessing-Game\Number-Guessing-Game\obj\Debug\net8.0\Number-Guessing-Game.genruntimeconfig.cache
+C:\Users\allen\source\repos\Number-Guessing-Game\Number-Guessing-Game\obj\Debug\net8.0\ref\Number-Guessing-Game.dll
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\Number-Guessing-Cs\Number-Guessing-Game\bin\Debug\net8.0\Number-Guessing-Game.exe
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\Number-Guessing-Cs\Number-Guessing-Game\bin\Debug\net8.0\Number-Guessing-Game.deps.json
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\Number-Guessing-Cs\Number-Guessing-Game\bin\Debug\net8.0\Number-Guessing-Game.runtimeconfig.json
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\Number-Guessing-Cs\Number-Guessing-Game\bin\Debug\net8.0\Number-Guessing-Game.dll
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\Number-Guessing-Cs\Number-Guessing-Game\bin\Debug\net8.0\Number-Guessing-Game.pdb
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\Number-Guessing-Cs\Number-Guessing-Game\obj\Debug\net8.0\Number-Guessing-Game.GeneratedMSBuildEditorConfig.editorconfig
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\Number-Guessing-Cs\Number-Guessing-Game\obj\Debug\net8.0\Number-Guessing-Game.AssemblyInfoInputs.cache
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\Number-Guessing-Cs\Number-Guessing-Game\obj\Debug\net8.0\Number-Guessing-Game.AssemblyInfo.cs
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\Number-Guessing-Cs\Number-Guessing-Game\obj\Debug\net8.0\Number-Guessing-Game.csproj.CoreCompileInputs.cache
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\Number-Guessing-Cs\Number-Guessing-Game\obj\Debug\net8.0\Number-Guessing-Game.sourcelink.json
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\Number-Guessing-Cs\Number-Guessing-Game\obj\Debug\net8.0\Number-Guessing-Game.dll
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\Number-Guessing-Cs\Number-Guessing-Game\obj\Debug\net8.0\refint\Number-Guessing-Game.dll
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\Number-Guessing-Cs\Number-Guessing-Game\obj\Debug\net8.0\Number-Guessing-Game.pdb
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\Number-Guessing-Cs\Number-Guessing-Game\obj\Debug\net8.0\Number-Guessing-Game.genruntimeconfig.cache
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\Number-Guessing-Cs\Number-Guessing-Game\obj\Debug\net8.0\ref\Number-Guessing-Game.dll

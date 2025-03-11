@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Social Media Cards</title>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+
+        .gold {
+            transition: transform 0.3s, box-shadow 0.3s;
+            border-radius: 10px;
+            overflow: hidden;
+        }
+
+        .gold:hover {
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+            transform: scale(1.05);
+        }
+
+        .card-img-top {
+            height: 200px;
+            object-fit: cover;
+        }
+
+        .social-icons {
+            background-color: rgba(0, 0, 0, 0.1);
+            padding: 10px;
+            border-radius: 0 0 10px 10px;
+        }
+
+        .social-icons i {
+            font-size: 20px;
+            margin: 0 10px;
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+
+    <section class="container my-5">
+        <div class="row justify-content-center g-4">
+            
+            <!-- GOLD CARD -->
+            <div class="col-md-4">
+                <div class="card h-100 gold border-warning">
+                    <img src="unsplash foto/Machu_Picchu_station,_Aguas_Calientes,_Peru_(Unsplash).jpg"
+                        class="card-img-top" alt="Machu Picchu">
+                    <div class="card-body text-center">
+                        <h5 class="card-title text-warning">Gold Membership</h5>
+                        <p class="card-text">Get exclusive perks and unlimited access to premium content with our Gold Membership.</p>
+                    </div>
+                    <div class="social-icons text-center bg-warning">
+                        <i class="fa-brands fa-facebook"></i>
+                        <i class="fa-brands fa-x-twitter"></i>
+                        <i class="fa-brands fa-youtube"></i>
+                        <i class="fa-brands fa-linkedin"></i>
+                    </div>
+                </div>
+            </div>
+
+            <!-- BLUE CARD -->
+            <div class="col-md-4">
+                <div class="card h-100 gold border-primary">
+                    <img src="unsplash foto/Machu_Picchu_station,_Aguas_Calientes,_Peru_(Unsplash).jpg"
+                        class="card-img-top" alt="Machu Picchu">
+                    <div class="card-body text-center">
+                        <h5 class="card-title text-primary">Premium Access</h5>
+                        <p class="card-text">Unlock premium benefits, exclusive offers, and early access to special content.</p>
+                    </div>
+                    <div class="social-icons text-center bg-primary">
+                        <i class="fa-brands fa-facebook"></i>
+                        <i class="fa-brands fa-x-twitter"></i>
+                        <i class="fa-brands fa-youtube"></i>
+                        <i class="fa-brands fa-linkedin"></i>
+                    </div>
+                </div>
+            </div>
+
+            <!-- RED CARD -->
+            <div class="col-md-4">
+                <div class="card h-100 gold border-danger">
+                    <img src="unsplash foto/Machu_Picchu_station,_Aguas_Calientes,_Peru_(Unsplash).jpg"
+                        class="card-img-top" alt="Machu Picchu">
+                    <div class="card-body text-center">
+                        <h5 class="card-title text-danger">VIP Membership</h5>
+                        <p class="card-text">Enjoy the best features and unlimited benefits with our VIP Membership.</p>
+                    </div>
+                    <div class="social-icons text-center bg-danger">
+                        <i class="fa-brands fa-facebook"></i>
+                        <i class="fa-brands fa-x-twitter"></i>
+                        <i class="fa-brands fa-youtube"></i>
+                        <i class="fa-brands fa-linkedin"></i>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+</body>
+
+</html>

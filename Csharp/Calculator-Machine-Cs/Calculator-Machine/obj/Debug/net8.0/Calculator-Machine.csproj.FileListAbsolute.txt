@@ -1,0 +1,29 @@
+C:\Users\allen\source\repos\Calculator-Machine\Calculator-Machine\bin\Debug\net8.0\Calculator-Machine.exe
+C:\Users\allen\source\repos\Calculator-Machine\Calculator-Machine\bin\Debug\net8.0\Calculator-Machine.deps.json
+C:\Users\allen\source\repos\Calculator-Machine\Calculator-Machine\bin\Debug\net8.0\Calculator-Machine.runtimeconfig.json
+C:\Users\allen\source\repos\Calculator-Machine\Calculator-Machine\bin\Debug\net8.0\Calculator-Machine.dll
+C:\Users\allen\source\repos\Calculator-Machine\Calculator-Machine\bin\Debug\net8.0\Calculator-Machine.pdb
+C:\Users\allen\source\repos\Calculator-Machine\Calculator-Machine\obj\Debug\net8.0\Calculator-Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allen\source\repos\Calculator-Machine\Calculator-Machine\obj\Debug\net8.0\Calculator-Machine.AssemblyInfoInputs.cache
+C:\Users\allen\source\repos\Calculator-Machine\Calculator-Machine\obj\Debug\net8.0\Calculator-Machine.AssemblyInfo.cs
+C:\Users\allen\source\repos\Calculator-Machine\Calculator-Machine\obj\Debug\net8.0\Calculator-Machine.csproj.CoreCompileInputs.cache
+C:\Users\allen\source\repos\Calculator-Machine\Calculator-Machine\obj\Debug\net8.0\Calculator-Machine.dll
+C:\Users\allen\source\repos\Calculator-Machine\Calculator-Machine\obj\Debug\net8.0\refint\Calculator-Machine.dll
+C:\Users\allen\source\repos\Calculator-Machine\Calculator-Machine\obj\Debug\net8.0\Calculator-Machine.pdb
+C:\Users\allen\source\repos\Calculator-Machine\Calculator-Machine\obj\Debug\net8.0\Calculator-Machine.genruntimeconfig.cache
+C:\Users\allen\source\repos\Calculator-Machine\Calculator-Machine\obj\Debug\net8.0\ref\Calculator-Machine.dll
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\Calculator-Machine-Cs\Calculator-Machine\bin\Debug\net8.0\Calculator-Machine.exe
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\Calculator-Machine-Cs\Calculator-Machine\bin\Debug\net8.0\Calculator-Machine.deps.json
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\Calculator-Machine-Cs\Calculator-Machine\bin\Debug\net8.0\Calculator-Machine.runtimeconfig.json
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\Calculator-Machine-Cs\Calculator-Machine\bin\Debug\net8.0\Calculator-Machine.dll
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\Calculator-Machine-Cs\Calculator-Machine\bin\Debug\net8.0\Calculator-Machine.pdb
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\Calculator-Machine-Cs\Calculator-Machine\obj\Debug\net8.0\Calculator-Machine.GeneratedMSBuildEditorConfig.editorconfig
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\Calculator-Machine-Cs\Calculator-Machine\obj\Debug\net8.0\Calculator-Machine.AssemblyInfoInputs.cache
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\Calculator-Machine-Cs\Calculator-Machine\obj\Debug\net8.0\Calculator-Machine.AssemblyInfo.cs
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\Calculator-Machine-Cs\Calculator-Machine\obj\Debug\net8.0\Calculator-Machine.csproj.CoreCompileInputs.cache
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\Calculator-Machine-Cs\Calculator-Machine\obj\Debug\net8.0\Calculator-Machine.sourcelink.json
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\Calculator-Machine-Cs\Calculator-Machine\obj\Debug\net8.0\Calculator-Machine.dll
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\Calculator-Machine-Cs\Calculator-Machine\obj\Debug\net8.0\refint\Calculator-Machine.dll
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\Calculator-Machine-Cs\Calculator-Machine\obj\Debug\net8.0\Calculator-Machine.pdb
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\Calculator-Machine-Cs\Calculator-Machine\obj\Debug\net8.0\Calculator-Machine.genruntimeconfig.cache
+E:\abdulmuttalip aykal\OneDrive\Masaüstü\Web-Projects\Csharp\Calculator-Machine-Cs\Calculator-Machine\obj\Debug\net8.0\ref\Calculator-Machine.dll

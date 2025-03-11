@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Management</title>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+
+        .navbar {
+            padding: 15px;
+        }
+
+        img {
+            height: 50px;
+            width: 50px;
+            border-radius: 50%;
+            object-fit: cover;
+        }
+
+        table {
+            margin-top: 30px;
+        }
+
+        .status-icon {
+            font-size: 14px;
+            margin-right: 5px;
+        }
+
+        .settings,
+        .cross {
+            font-size: 18px;
+            cursor: pointer;
+            transition: 0.3s ease;
+        }
+
+        .settings {
+            color: rgb(39, 131, 211);
+        }
+
+        .cross {
+            color: red;
+        }
+
+        .settings:hover {
+            color: rgb(19, 105, 180);
+        }
+
+        .cross:hover {
+            color: rgb(200, 0, 0);
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <nav class="navbar navbar-expand-lg bg-info">
+            <div class="container">
+                <h1 class="text-light fw-bold">User Management</h1>
+                <div>
+                    <button type="button" class="btn btn-light"><i class="fa-solid fa-file"></i> Export to Excel</button>
+                    <button type="button" class="btn btn-light"><i class="fa-solid fa-circle-plus"></i> Add New User</button>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <section class="container">
+        <table class="table table-light table-bordered table-hover align-middle shadow">
+            <thead class="table-dark">
+                <tr>
+                    <th>#</th>
+                    <th>Name</th>
+                    <th>Date Created</th>
+                    <th>Role</th>
+                    <th>Status</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td class="d-flex align-items-center">
+                        <img src="unsplash foto/GREEN-1.jpg" alt="" class="me-2"> Micheal Holz
+                    </td>
+                    <td>04.10.2023</td>
+                    <td>Admin</td>
+                    <td>
+                        <i class="fa-solid fa-circle status-icon text-success"></i> Active
+                    </td>
+                    <td>
+                        <i class="fa-solid fa-gear settings me-3"></i>
+                        <i class="fa-solid fa-circle-xmark cross"></i>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>2</td>
+                    <td class="d-flex align-items-center">
+                        <img src="unsplash foto/dimitar-donovski-h9Zr7Hq8yaA-unsplash.jpg" alt="" class="me-2"> Paula Wilson
+                    </td>
+                    <td>05.08.2024</td>
+                    <td>Publisher</td>
+                    <td>
+                        <i class="fa-solid fa-circle status-icon text-success"></i> Active
+                    </td>
+                    <td>
+                        <i class="fa-solid fa-gear settings me-3"></i>
+                        <i class="fa-solid fa-circle-xmark cross"></i>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>3</td>
+                    <td class="d-flex align-items-center">
+                        <img src="unsplash foto/5426187-free-freedom-open-arms-sunset.jpg" alt="" class="me-2"> Antonio Moreno
+                    </td>
+                    <td>11.05.2015</td>
+                    <td>Publisher</td>
+                    <td>
+                        <i class="fa-solid fa-circle status-icon text-danger"></i> Suspended
+                    </td>
+                    <td>
+                        <i class="fa-solid fa-gear settings me-3"></i>
+                        <i class="fa-solid fa-circle-xmark cross"></i>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>4</td>
+                    <td class="d-flex align-items-center">
+                        <img src="unsplash foto/img1.wallspic.com-mountainous_landforms-cloud.jpg" alt="" class="me-2"> Mary Saveley
+                    </td>
+                    <td>06.09.2016</td>
+                    <td>Reviewer</td>
+                    <td>
+                        <i class="fa-solid fa-circle status-icon text-success"></i> Active
+                    </td>
+                    <td>
+                        <i class="fa-solid fa-gear settings me-3"></i>
+                        <i class="fa-solid fa-circle-xmark cross"></i>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>5</td>
+                    <td class="d-flex align-items-center">
+                        <img src="unsplash foto/GREEN-1.jpg" alt="" class="me-2"> Martin Sommer
+                    </td>
+                    <td>12.08.2017</td>
+                    <td>Moderator</td>
+                    <td>
+                        <i class="fa-solid fa-circle status-icon text-warning"></i> Inactive
+                    </td>
+                    <td>
+                        <i class="fa-solid fa-gear settings me-3"></i>
+                        <i class="fa-solid fa-circle-xmark cross"></i>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+
+</body>
+
+</html>

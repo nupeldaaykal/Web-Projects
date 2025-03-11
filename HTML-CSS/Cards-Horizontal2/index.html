@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog News</title>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+        integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+
+        .news-header {
+            max-width: 600px;
+            text-align: center;
+            margin: 40px auto;
+        }
+
+        .news-header h6 {
+            color: #6c757d;
+            text-transform: uppercase;
+            font-weight: bold;
+        }
+
+        .news-header h1 {
+            font-size: 28px;
+            font-weight: bold;
+            color: #343a40;
+        }
+
+        .card-footer i {
+            margin-right: 5px;
+        }
+
+        .card-footer small {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Header -->
+    <div class="news-header">
+        <h6>OUR NEWS</h6>
+        <h1>Here is our blog's latest company news about regularly publishing fresh content.</h1>
+    </div>
+
+    <!-- Blog News Cards -->
+    <section class="container">
+        <div class="row row-cols-1 row-cols-md-3 g-4">
+            <div class="col">
+                <div class="card h-100">
+                    <img src="images/career-1.jpg" class="card-img-top" alt="Career Image">
+                    <div class="card-body">
+                        <h6 class="text-primary">Career</h6>
+                        <h5 class="card-title">How to choose a career</h5>
+                        <p class="card-text">Choosing a career can be overwhelming, but with the right steps, you can
+                            find what suits you best.</p>
+                    </div>
+                    <div class="card-footer d-flex justify-content-between align-items-center">
+                        <small class="text-muted"><i class="fa-solid fa-calendar-days"></i> 7 May 24</small>
+                        <small class="text-muted"><i class="fa-regular fa-comment-dots"></i> 55 Comments</small>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col">
+                <div class="card h-100">
+                    <img src="images/career-2.jpg" class="card-img-top" alt="Career Image">
+                    <div class="card-body">
+                        <h6 class="text-primary">Career</h6>
+                        <h5 class="card-title">Resume Writing Tips</h5>
+                        <p class="card-text">Learn how to craft a strong resume that will get you noticed by top
+                            recruiters.</p>
+                    </div>
+                    <div class="card-footer d-flex justify-content-between align-items-center">
+                        <small class="text-muted"><i class="fa-solid fa-calendar-days"></i> 10 May 24</small>
+                        <small class="text-muted"><i class="fa-regular fa-comment-dots"></i> 32 Comments</small>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col">
+                <div class="card h-100">
+                    <img src="images/career-3.jpg" class="card-img-top" alt="Career Image">
+                    <div class="card-body">
+                        <h6 class="text-primary">Career</h6>
+                        <h5 class="card-title">Job Interview Success</h5>
+                        <p class="card-text">Ace your next job interview with these simple yet effective strategies.</p>
+                    </div>
+                    <div class="card-footer d-flex justify-content-between align-items-center">
+                        <small class="text-muted"><i class="fa-solid fa-calendar-days"></i> 15 May 24</small>
+                        <small class="text-muted"><i class="fa-regular fa-comment-dots"></i> 48 Comments</small>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Bootstrap JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+
+</html>
